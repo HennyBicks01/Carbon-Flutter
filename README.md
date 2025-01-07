@@ -1,4 +1,4 @@
-# Carbon App Boilerplate
+# Carbon Boilerplate
 
 ## Overview
 A Flutter boilerplate project following the MVVM (Model-View-ViewModel) architecture, designed to provide a robust starting point for Flutter applications.
